@@ -1,4 +1,13 @@
-Copyright 2017 - Paranoid Android Project
+## Welcome to jmpf_bmx project
+**************************************************************************************
+## For sync these vendor/pa/products you only have to do that:
+```
+1st delete zte/jasmine folder on your (*Your Repo of Paranoid Android*)/device
+2nd open a terminal put cd (*Your Repo of Paranoid Android*) And put these:
+  `git clone -b nougat-mr2 https://github.com/jmpfbmx/android_device_zte_jasmine_aospa device/zte/jasmine`
+```
+
+Copyright 2017 - Paranoid Android 
 
 Device configuration for ZTE Trek 2 HD
 ======================================
