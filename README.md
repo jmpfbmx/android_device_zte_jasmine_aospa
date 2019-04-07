@@ -1,6 +1,7 @@
+# android_device_zte_jasmine_aospa
 ## Welcome to jmpf_bmx project
 **************************************************************************************
-## For sync these vendor/pa/products you only have to do that:
+## For sync these device/zte/jasmine you only have to do that:
 ```
 1st delete zte/jasmine folder on your (*Your Repo of Paranoid Android*)/device
 2nd open a terminal put cd (*Your Repo of Paranoid Android*) And put these:
