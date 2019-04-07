@@ -1,0 +1,20 @@
+[
+  {
+    "target_path": "kernel/zte/msm8952",
+    "repository":  "LineageOS/android_kernel_zte_msm8952",
+    "remote":      "github",
+    "revision":    "cm-14.1"
+  },
+  {
+    "target_path": "device/qcom/common",   
+    "repository":  "AOSPA/android_device_qcom_common",
+    "remote":      "github",
+    "revision":    "nougat-mr2"  
+  },
+  {
+    "target_path": "vendor/zte/jasmine",   
+    "repository":  "TheMuppets/proprietary_vendor_zte",
+    "remote":      "github",
+    "revision":    "cm-14.1"  
+  }
+]

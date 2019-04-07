@@ -1,0 +1,2 @@
+add_lunch_combo nitrogen_jasmine-userdebug
+add_lunch_combo pa_jasmine-userdebug
