@@ -1,4 +1,4 @@
-Copyright 2017 - The LineageOS Project
+Copyright 2017 - Paranoid Android Project
 
 Device configuration for ZTE Trek 2 HD
 ======================================
